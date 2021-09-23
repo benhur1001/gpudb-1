@@ -48,7 +48,7 @@ BASED ON:
 		PLSQL3.g Andrey Kharitonkin (thikone@gmail.com)
 		PLSQLGrammar.g for ANTLR v2
 		Qazi Firdous Ahmed (qazif_ahmed@infosys.com) 
-		Krupa Benhur (krupa_bg@infosys.com)
+		Krupa Benhur (benhur@gmail.com)
 		Manojaba Banerjee (manojaba_banerjee@infosys.com)
 		Infosys Technologies Ltd., Bangalore, India
 		Sept 18, 2002
